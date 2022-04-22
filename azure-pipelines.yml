@@ -12,6 +12,7 @@ pool:
   - npm
 
 variables:
+  buildPlatform: 'Any CPU'
   buildConfiguration: 'Release'
 
 steps:
